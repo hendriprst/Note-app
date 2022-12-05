@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Note App with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project for submission course "Belajar Membuat Aplikasi Web dengan React" from Dicoding Academy
 
 ## Available Scripts
 
